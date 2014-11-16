@@ -4,4 +4,11 @@
   <artifactId>positronic-attendance</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <name>Positronic Attendance</name>
+  <dependencies>
+  	<dependency>
+  		<groupId>io.orchestrate</groupId>
+  		<artifactId>orchestrate-client</artifactId>
+  		<version>0.5.1</version>
+  	</dependency>
+  </dependencies>
 </project>
